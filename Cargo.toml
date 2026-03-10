@@ -1,0 +1,10 @@
+[package]
+name = "advent25"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
+pastey = "0.2.1"
+
+[dev-dependencies]
+indoc = "2.0.7"
